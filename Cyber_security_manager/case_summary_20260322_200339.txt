@@ -1,0 +1,12 @@
+
+=== CYBER FORENSICS CASE SUMMARY REPORT ===
+Generated: 2026-03-22 20:03:39
+
+TOTAL CASES: 2
+
+STATUS BREAKDOWN:
+  - Open: 2
+
+PRIORITY BREAKDOWN:
+  - Critical: 1
+  - High: 1
