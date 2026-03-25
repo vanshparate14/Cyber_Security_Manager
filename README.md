@@ -45,7 +45,7 @@ UI Components:
 - ✅ Responsive grid layouts
 
 ### **Report** (Outcomes & Usage)
-**Sample Usage Data** (from generated files):
+**Sample Usage Data** (generated files):
 ```
 Case Summary (2026-03-22):
 - TOTAL CASES: 2 (Open)
@@ -109,7 +109,7 @@ Case CF-2024-001: "Malware Investigation"
 ## 📊 **Sample Reports Generated**
 ```
 case_summary_20260322_200339.txt:
-TOTAL CASES: 2 | Open: 2 | Critical: 1 | High: 1
+TOTAL CASES: 2 | Open: 1 | Critical: 1 | High: 0
 ```
 
 ## 🤝 **Contributing**
