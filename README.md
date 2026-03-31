@@ -48,7 +48,7 @@ UI Components:
 **Sample Usage Data** (generated files):
 ```
 Case Summary (2026-03-22):
-- TOTAL CASES: 2 (Open)
+- TOTAL CASES: 2 Cases
 - Priorities: 1 Critical, 1 High
 ```
 **JSON Export Structure**: Hierarchical cases → evidence/notes
