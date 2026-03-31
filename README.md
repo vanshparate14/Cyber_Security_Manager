@@ -5,7 +5,7 @@
 
 A comprehensive **GUI application** for digital forensic investigators to manage cases, track evidence with cryptographic hashes (MD5/SHA256), maintain notes, generate reports, and export data.
 
-## 🛡️ **Understand using STAR Technology**
+## 🛡️ **Understand using STAR Anamoly**
 
 ### **Strategy** (High-Level Approach)
 Built with a **SQLite-backed MVC architecture** using **CustomTkinter** for modern dark-mode UI. Emphasizes:
