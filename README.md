@@ -47,7 +47,7 @@ UI Components:
 ### **Report** (Outcomes & Usage)
 **Sample Usage Data** (generated files):
 ```
-Case Summary (2026-03-22):
+Case Summary (Date):
 - TOTAL CASES: 2 Cases
 - Priorities: 1 Critical, 1 High
 ```
