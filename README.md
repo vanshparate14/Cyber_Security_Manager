@@ -1,6 +1,6 @@
 # Cyber Forensics File Manager
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: VP](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
 
 A comprehensive **GUI application** for digital forensic investigators to manage cases, track evidence with cryptographic hashes (MD5/SHA256), maintain notes, generate reports, and export data.
